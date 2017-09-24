@@ -4,7 +4,7 @@ Description
 A simulation of Schelling's model of segregation with an introduction [here](https://lectures.quantecon.org/jl/schelling.html). To clone:
 
 ```
-https://github.com/wchen30030/schelling-model
+git clone https://github.com/wchen30030/schelling-model
 ```
 
 How to Run
