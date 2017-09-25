@@ -1,7 +1,7 @@
 Description
 ===========
 
-A simulation of Schelling's model of segregation with an introduction [here](https://lectures.quantecon.org/jl/schelling.html). To clone:
+A simulation of Schelling's model of segregation with an introduction [here](http://nifty.stanford.edu/2014/mccown-schelling-model-segregation/). To clone:
 
 ```
 git clone https://github.com/wchen30030/schelling-model
